@@ -1,2 +1,2 @@
-Проверка аккаунта GIT
-second branch
+Проверка аккаунта GIT  
+second branch changed
